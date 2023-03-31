@@ -226,6 +226,7 @@ platforms = ["linux/amd64"]
     file \
     gir1.2-gdkpixbuf-2.0:amd64 \
     gir1.2-rsvg-2.0:amd64 \
+    git \
     gnupg \
     gnupg1 \
     graphviz \
